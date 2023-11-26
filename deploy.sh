@@ -1,2 +1,3 @@
 deployment of
-application
+java application
+web application
